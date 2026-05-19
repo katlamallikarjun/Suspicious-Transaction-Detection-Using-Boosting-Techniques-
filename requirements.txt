@@ -1,0 +1,8 @@
+flask
+xgboost
+lightgbm
+pandas
+numpy
+scikit-learn
+shap
+boto3
